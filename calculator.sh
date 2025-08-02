@@ -9,3 +9,7 @@ f=40
 echo "Division is : $f/$20"
 
 echo"Final version of applications"
+
+echo "assing one more line to check the difference"
+
+echo "adding second line to check the git difference"
