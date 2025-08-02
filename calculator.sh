@@ -7,3 +7,5 @@ echo "the addition is $c"
 e=20
 f=40
 echo "Division is : $f/$20"
+
+echo"Final version of applications"
