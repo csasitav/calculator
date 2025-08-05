@@ -16,4 +16,4 @@ echo "adding second line to check the git difference"
 
 echo "Adding functionality for Scientific calculator"
 
-This Main Branch
+#This is Merge Demo Branch 
