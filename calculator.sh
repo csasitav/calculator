@@ -15,3 +15,5 @@ echo "assing one more line to check the difference"
 echo "adding second line to check the git difference"
 
 echo "Adding functionality for Scientific calculator"
+
+#This is Demo for Branch Merge 
